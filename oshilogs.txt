@@ -12,125 +12,128 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Faika =====
-[1]Faika       |06:49:37 | 31-10-2026| login OK @faikareglia | score=0 rank=?
-[1]Faika       |06:49:37 | 31-10-2026| serverTime=2026-10-31T06:49:37.000Z local=2026-10-31T06:49:37.868Z
+[1]Faika       |07:15:42 | 01-11-2026| login OK @faikareglia | score=0 rank=?
+[1]Faika       |07:15:42 | 01-11-2026| serverTime=2026-11-01T07:15:42.000Z local=2026-11-01T07:15:42.274Z
 --> [1]Faika menjalankan: Claim Daily
-[1]Faika       |06:49:38 | 31-10-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
---> [1]Faika menjalankan: Auto All Tasks (12 pending)
-[1]Faika       |06:49:38 | 31-10-2026| [1/12] 15e8b695 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116421704613126249
-[1]Faika       |06:49:38 | 31-10-2026| delay 10s...
-[1]Faika       |06:49:48 | 31-10-2026| [2/12] 2a71892a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116422062107834695
-[1]Faika       |06:49:48 | 31-10-2026| delay 10s...
-[1]Faika       |06:49:58 | 31-10-2026| [3/12] caaa7a93 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116421886940157857
-[1]Faika       |06:49:58 | 31-10-2026| delay 10s...
-[1]Faika       |06:50:09 | 31-10-2026| [4/12] d4f05f1e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116421963496382792
-[1]Faika       |06:50:09 | 31-10-2026| delay 10s...
-[1]Faika       |06:50:19 | 31-10-2026| [5/12] 68dc803a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116422178434934536
-[1]Faika       |06:50:19 | 31-10-2026| delay 10s...
-[1]Faika       |06:50:29 | 31-10-2026| [6/12] 2b535748 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116422108252155927
-[1]Faika       |06:50:29 | 31-10-2026| delay 10s...
-[1]Faika       |06:50:40 | 31-10-2026| [7/12] bbf7f979 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116422146994921171
-[1]Faika       |06:50:40 | 31-10-2026| delay 10s...
-[1]Faika       |06:50:50 | 31-10-2026| [8/12] 41ea1884 (reply) verify GAGAL http=503 resp={"error":"記録の処理に負荷がかかっています。少し待ってからお試しください。"} | proof=https://x.com/faikareglia/status/2116422140385737683
-[1]Faika       |06:50:50 | 31-10-2026| delay 10s...
-[1]Faika       |06:51:01 | 31-10-2026| [9/12] 623aac60 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116422101872272260
-[1]Faika       |06:51:01 | 31-10-2026| delay 10s...
-[1]Faika       |06:51:11 | 31-10-2026| [10/12] 0aa0f4ba (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116422434206693091
-[1]Faika       |06:51:11 | 31-10-2026| delay 10s...
-[1]Faika       |06:51:21 | 31-10-2026| [11/12] 137da6db (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:51:21 | 31-10-2026| delay 10s...
-[1]Faika       |06:51:31 | 31-10-2026| [12/12] 125a0329 (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:51:31 | 31-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Faika       |06:51:32 | 31-10-2026| [1/1] 15e8b695 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116422378551673476
+[1]Faika       |07:15:42 | 01-11-2026| daily ERROR: daily http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+--> [1]Faika menjalankan: Auto All Tasks (13 pending)
+[1]Faika       |07:15:43 | 01-11-2026| [1/13] 044a9851 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116790666309603319
+[1]Faika       |07:15:43 | 01-11-2026| delay 10s...
+[1]Faika       |07:15:54 | 01-11-2026| [2/13] 5f376a08 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116791038168517700
+[1]Faika       |07:15:54 | 01-11-2026| delay 10s...
+[1]Faika       |07:16:05 | 01-11-2026| [3/13] 2b535748 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116790835128322467
+[1]Faika       |07:16:05 | 01-11-2026| delay 10s...
+[1]Faika       |07:16:16 | 01-11-2026| [4/13] 8ac1a107 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116790899148990322
+[1]Faika       |07:16:16 | 01-11-2026| delay 10s...
+[1]Faika       |07:16:26 | 01-11-2026| [5/13] 76e5ce8c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116790986421613978
+[1]Faika       |07:16:26 | 01-11-2026| delay 10s...
+[1]Faika       |07:16:36 | 01-11-2026| [6/13] 7354ea5e (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116790945669717757
+[1]Faika       |07:16:36 | 01-11-2026| delay 10s...
+[1]Faika       |07:16:47 | 01-11-2026| [7/13] 07e2b02d (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116791072676804221
+[1]Faika       |07:16:47 | 01-11-2026| delay 10s...
+[1]Faika       |07:16:58 | 01-11-2026| [8/13] 70541c21 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116791175527799461
+[1]Faika       |07:16:58 | 01-11-2026| delay 10s...
+[1]Faika       |07:17:09 | 01-11-2026| [9/13] 587d9c2a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116791322942333119
+[1]Faika       |07:17:09 | 01-11-2026| delay 10s...
+[1]Faika       |07:17:19 | 01-11-2026| [10/13] 0aa0f4ba (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116791075704403190
+[1]Faika       |07:17:19 | 01-11-2026| delay 10s...
+[1]Faika       |07:17:30 | 01-11-2026| [11/13] 28bea61c (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116791387753980515
+[1]Faika       |07:17:30 | 01-11-2026| delay 10s...
+[1]Faika       |07:17:40 | 01-11-2026| [12/13] 50117b4a (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116791414320017949
+[1]Faika       |07:17:40 | 01-11-2026| delay 10s...
+[1]Faika       |07:17:51 | 01-11-2026| [13/13] 137da6db (link) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:17:51 | 01-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Faika       |07:17:51 | 01-11-2026| [1/1] 044a9851 (reply) verify GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"} | proof=https://x.com/faikareglia/status/2116791242528137517
 --> [1]Faika menjalankan: Watch Anime
-[1]Faika       |06:51:32 | 31-10-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Faika       |07:17:52 | 01-11-2026| watch ERROR: watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Faika menjalankan: Read Article
-[1]Faika       |06:51:33 | 31-10-2026| news: null/32 artikel selesai dibaca
-[1]Faika       |06:51:34 | 31-10-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
-[1]Faika       |06:51:39 | 31-10-2026| news smart-pocket-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:51:47 | 31-10-2026| news oshi-labs-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:51:54 | 31-10-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:52:02 | 31-10-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:52:08 | 31-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:52:15 | 31-10-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:52:22 | 31-10-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:52:29 | 31-10-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:52:36 | 31-10-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:52:44 | 31-10-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:52:52 | 31-10-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:52:59 | 31-10-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:53:06 | 31-10-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:53:13 | 31-10-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:53:20 | 31-10-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:53:27 | 31-10-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:53:34 | 31-10-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:53:41 | 31-10-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:53:49 | 31-10-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:53:56 | 31-10-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:54:03 | 31-10-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:54:10 | 31-10-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:54:17 | 31-10-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:54:25 | 31-10-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:54:31 | 31-10-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:54:39 | 31-10-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:54:46 | 31-10-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:54:53 | 31-10-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:55:00 | 31-10-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:55:07 | 31-10-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:55:14 | 31-10-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
-[1]Faika       |06:55:21 | 31-10-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:17:53 | 01-11-2026| news: null/33 artikel selesai dibaca
+[1]Faika       |07:17:54 | 01-11-2026| mint eligibility: {"userId":null,"wallet":{"state":"missing","ready":false},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true
+[1]Faika       |07:17:59 | 01-11-2026| news oshi-labs-new-features-2026-11: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:18:07 | 01-11-2026| news smart-pocket-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:18:14 | 01-11-2026| news oshi-labs-monthly-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:18:21 | 01-11-2026| news road-to-mint-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:18:28 | 01-11-2026| news community-first-update-2026-10: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:18:37 | 01-11-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:18:44 | 01-11-2026| news smart-pocket-800000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:18:52 | 01-11-2026| news 100-friends-connected-by-what-we-love: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:18:59 | 01-11-2026| news 5c5bca9d-4991-4e23-918b-9b13cd2245c8: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:19:07 | 01-11-2026| news oshi-clash-100000-battles: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:19:14 | 01-11-2026| news whitepaper-v2-2: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:19:22 | 01-11-2026| news smart-pocket-referral-rewards: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:19:29 | 01-11-2026| news spaceship-and-studio-friends: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:19:37 | 01-11-2026| news swap-arena-stars-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:19:44 | 01-11-2026| news kagura-airdrop-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:19:52 | 01-11-2026| news oshi-clash-complete-guide: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:20:00 | 01-11-2026| news oshi-clash-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:20:08 | 01-11-2026| news smart-pocket-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:20:16 | 01-11-2026| news oshi-labs-monthly-2026-09: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:20:24 | 01-11-2026| news oshi-news-launch: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:20:32 | 01-11-2026| news yuki-character-design: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:20:39 | 01-11-2026| news smart-pocket-mobile-apps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:20:46 | 01-11-2026| news smart-pocket-read-a-card: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:20:54 | 01-11-2026| news start-your-fan-creation: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:21:01 | 01-11-2026| news complete-your-first-task: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:21:09 | 01-11-2026| news understand-the-rankings: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:21:17 | 01-11-2026| news unlock-and-save-icons: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:21:25 | 01-11-2026| news start-here: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:21:32 | 01-11-2026| news what-is-free-mint: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:21:39 | 01-11-2026| news what-is-nft: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:21:47 | 01-11-2026| news prepare-your-wallet: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:21:54 | 01-11-2026| news find-your-anime: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
+[1]Faika       |07:22:01 | 01-11-2026| news smart-pocket-first-steps: complete GAGAL http=401 resp={"error":"Xでログインしてから参加してください。"}
 --> [1]Faika menjalankan: Quiz Anime
 --> [1]Faika menjalankan: Music Missions (realtime, bisa lama!)
-[1]Faika       |06:55:25 | 31-10-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-[1]Faika       |06:55:25 | 31-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Faika       |07:22:06 | 01-11-2026| music ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Faika       |07:22:06 | 01-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Faika menjalankan: Claim Missions
-[1]Faika       |06:55:26 | 31-10-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Faika       |07:22:06 | 01-11-2026| missions ERROR: missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Faika menjalankan: Check Eligibility
 
 --- eligibility [1]Faika ---
   @? | score=0 rank=?
-  tasks    [--------------------] 0/12
+  tasks    [--------------------] 0/13
   missions: ERROR missions http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
   quiz     [?]
   watch: ERROR watch-progress http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
-  music    [--------------------] 0/12
-  artikel  [--------------------] 0/32
+  music    [--------------------] 0/13
+  artikel  [--------------------] 0/33
   mint: requirementsMet=false mintOpen=false discord=false
 
 --> [1]Faika menjalankan: Read Manga
-[1]Faika       |06:55:28 | 31-10-2026| manga: 13/13 chapter belum completed
-[1]Faika       |06:55:28 | 31-10-2026| manga [1/13] membaca ch.1 (19 hal)...
-[1]Faika       |06:55:28 | 31-10-2026| manga ch1 (1): start GAGAL http=401
-[1]Faika       |06:55:31 | 31-10-2026| manga [2/13] membaca ch.2 (18 hal)...
-[1]Faika       |06:55:32 | 31-10-2026| manga ch2 (450001): start GAGAL http=401
-[1]Faika       |06:55:35 | 31-10-2026| manga [3/13] membaca ch.3 (17 hal)...
-[1]Faika       |06:55:35 | 31-10-2026| manga ch3 (2160001): start GAGAL http=401
-[1]Faika       |06:55:38 | 31-10-2026| manga [4/13] membaca ch.4 (17 hal)...
-[1]Faika       |06:55:38 | 31-10-2026| manga ch4 (2400001): start GAGAL http=401
-[1]Faika       |06:55:41 | 31-10-2026| manga [5/13] membaca ch.5 (18 hal)...
-[1]Faika       |06:55:42 | 31-10-2026| manga ch5 (2490001): start GAGAL http=401
-[1]Faika       |06:55:45 | 31-10-2026| manga [6/13] membaca ch.6 (17 hal)...
-[1]Faika       |06:55:45 | 31-10-2026| manga ch6 (2610001): start GAGAL http=401
-[1]Faika       |06:55:48 | 31-10-2026| manga [7/13] membaca ch.1 (21 hal)...
-[1]Faika       |06:55:49 | 31-10-2026| manga ch1 (180003): start GAGAL http=401
-[1]Faika       |06:55:52 | 31-10-2026| manga [8/13] membaca ch.2 (18 hal)...
-[1]Faika       |06:55:52 | 31-10-2026| manga ch2 (990005): start GAGAL http=401
-[1]Faika       |06:55:55 | 31-10-2026| manga [9/13] membaca ch.3 (20 hal)...
-[1]Faika       |06:55:55 | 31-10-2026| manga ch3 (1980001): start GAGAL http=401
-[1]Faika       |06:55:58 | 31-10-2026| manga [10/13] membaca ch.1 (9 hal)...
-[1]Faika       |06:55:58 | 31-10-2026| manga ch1 (2100001): start GAGAL http=401
-[1]Faika       |06:56:01 | 31-10-2026| manga [11/13] membaca ch.1 (10 hal)...
-[1]Faika       |06:56:02 | 31-10-2026| manga ch1 (2070001): start GAGAL http=401
-[1]Faika       |06:56:05 | 31-10-2026| manga [12/13] membaca ch.2 (11 hal)...
-[1]Faika       |06:56:05 | 31-10-2026| manga ch2 (2520001): start GAGAL http=401
-[1]Faika       |06:56:08 | 31-10-2026| manga [13/13] membaca ch.3 (11 hal)...
-[1]Faika       |06:56:08 | 31-10-2026| manga ch3 (2550001): start GAGAL http=401
+[1]Faika       |07:22:09 | 01-11-2026| manga: 13/13 chapter belum completed
+[1]Faika       |07:22:09 | 01-11-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Faika       |07:22:10 | 01-11-2026| manga ch1 (1): start GAGAL http=401
+[1]Faika       |07:22:13 | 01-11-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Faika       |07:22:14 | 01-11-2026| manga ch2 (450001): start GAGAL http=401
+[1]Faika       |07:22:17 | 01-11-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Faika       |07:22:17 | 01-11-2026| manga ch3 (2160001): start GAGAL http=401
+[1]Faika       |07:22:20 | 01-11-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Faika       |07:22:20 | 01-11-2026| manga ch4 (2400001): start GAGAL http=401
+[1]Faika       |07:22:23 | 01-11-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Faika       |07:22:24 | 01-11-2026| manga ch5 (2490001): start GAGAL http=401
+[1]Faika       |07:22:27 | 01-11-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Faika       |07:22:28 | 01-11-2026| manga ch6 (2610001): start GAGAL http=401
+[1]Faika       |07:22:31 | 01-11-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Faika       |07:22:31 | 01-11-2026| manga ch1 (180003): start GAGAL http=401
+[1]Faika       |07:22:34 | 01-11-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Faika       |07:22:34 | 01-11-2026| manga ch2 (990005): start GAGAL http=401
+[1]Faika       |07:22:37 | 01-11-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Faika       |07:22:38 | 01-11-2026| manga ch3 (1980001): start GAGAL http=401
+[1]Faika       |07:22:41 | 01-11-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Faika       |07:22:41 | 01-11-2026| manga ch1 (2100001): start GAGAL http=401
+[1]Faika       |07:22:44 | 01-11-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Faika       |07:22:44 | 01-11-2026| manga ch1 (2070001): start GAGAL http=401
+[1]Faika       |07:22:47 | 01-11-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Faika       |07:22:47 | 01-11-2026| manga ch2 (2520001): start GAGAL http=401
+[1]Faika       |07:22:50 | 01-11-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Faika       |07:22:51 | 01-11-2026| manga ch3 (2550001): start GAGAL http=401
 --> [1]Faika menjalankan: Get Gift
-[1]Faika       |06:56:11 | 31-10-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Faika       |07:22:54 | 01-11-2026| gift ERROR: gifts http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Faika menjalankan: Setup Profile
-[1]Faika       |06:56:13 | 31-10-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Faika       |07:22:54 | 01-11-2026| profile ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 --> [1]Faika menjalankan: Bind Wallet
-[1]Faika       |06:56:13 | 31-10-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
+[1]Faika       |07:22:55 | 01-11-2026| wallet ERROR: member-settings http 401: {"error":"Xでログインしてから参加してください。"} -> cookie expired/tidak valid. Login ulang via X di browser, ambil ulang __Host-appgarden-visitor dari DevTools > Application > Cookies.
 
 == RINGKASAN ==
-- Faika: daily=- | tasks OK 0/13 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
+- Faika: daily=- | tasks OK 0/14 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/0 diterima | profile - | wallet - | mint req=false open=false
